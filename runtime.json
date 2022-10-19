@@ -215,66 +215,6 @@
         "airflowDatabase": false
       }
     },
-    "4.2.2": {
-      "metadata": {
-        "airflowVersion": "2.2.5",
-        "channel": "stable",
-        "releaseDate": "2022-04-04"
-      },
-      "migrations": {
-        "airflowDatabase": false
-      }
-    },
-    "4.2.3": {
-      "metadata": {
-        "airflowVersion": "2.2.5",
-        "channel": "stable",
-        "releaseDate": "2022-04-04"
-      },
-      "migrations": {
-        "airflowDatabase": false
-      }
-    },
-    "4.2.4": {
-      "metadata": {
-        "airflowVersion": "2.2.5",
-        "channel": "stable",
-        "releaseDate": "2022-04-06"
-      },
-      "migrations": {
-        "airflowDatabase": false
-      }
-    },
-    "4.2.5": {
-      "metadata": {
-        "airflowVersion": "2.2.5",
-        "channel": "stable",
-        "releaseDate": "2022-04-11"
-      },
-      "migrations": {
-        "airflowDatabase": false
-      }
-    },
-    "4.2.6": {
-      "metadata": {
-        "airflowVersion": "2.2.5",
-        "channel": "stable",
-        "releaseDate": "2022-04-19"
-      },
-      "migrations": {
-        "airflowDatabase": false
-      }
-    },
-    "4.2.7": {
-      "metadata": {
-        "airflowVersion": "2.2.5",
-        "channel": "stable",
-        "releaseDate": "2022-10-11"
-      },
-      "migrations": {
-        "airflowDatabase": false
-      }
-    },
     "5.0.0": {
       "metadata": {
         "airflowVersion": "2.3.0",
